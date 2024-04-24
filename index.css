@@ -1,0 +1,51 @@
+img{
+    background-repeat: no-repeat;
+    width: 1250px;
+    height: 650px;
+}
+
+#mydiv1{
+    border: 1px solid black;
+    width: 400px;
+    height: 270px;
+    position: absolute;
+    top: 120px;
+    left: 70px;
+    background-image: url('images/cheetah1.jpg');
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 270px;
+}
+
+#mydiv2{
+    border: 1px solid black;
+    width: 400px;
+    height: 260px;
+    position: absolute;
+    top: 120px;
+    left: 700px;
+    background-image: url('images/leopard1.jpg');
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 270px;
+}
+
+#mydiv3{
+    border: 1px solid black;
+    width: 400px;
+    height: 270px;
+    left: 60px;
+    position: absolute;
+    background-image: url('images/jaguar1.jpg');
+    background-repeat: no-repeat;
+}
+
+#mydiv4{
+    border: 1px solid black;
+    width: 400px;
+    height: 265px;
+    left: 700px;
+    position: absolute;
+    background-image: url('images/tiger1.jpg');
+    background-repeat: no-repeat;
+}
